@@ -1,4 +1,4 @@
-const x = () => console.log('1hello from pkg 01');
+const x = () => console.log('2hello from pkg 01');
 
 
 export {
