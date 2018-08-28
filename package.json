@@ -8,5 +8,9 @@
   "description": "root package",
   "main": "index.js",
   "author": "John Johnson <johnrjj@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "testpkgjrj01": "file:packages/testpkgjrj01",
+    "testpkgjrj02": "file:packages/testpkgjrj02"
+  }
 }
